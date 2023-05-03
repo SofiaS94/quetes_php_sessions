@@ -1,3 +1,4 @@
+<? session_start(); ?>
 <?php require 'inc/head.php'; ?>
 <?php require 'inc/data/products.php'; ?>
 <section class="cookies container-fluid">
